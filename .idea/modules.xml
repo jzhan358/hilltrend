@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hilltrend/hilltrend.iml" filepath="$PROJECT_DIR$/hilltrend/hilltrend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hilltrend-api/hilltrend-api.iml" filepath="$PROJECT_DIR$/hilltrend-api/hilltrend-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hilltrend-manager/hilltrend-manager.iml" filepath="$PROJECT_DIR$/hilltrend-manager/hilltrend-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hilltrend-parent.iml" filepath="$PROJECT_DIR$/hilltrend-parent.iml" />
+    </modules>
+  </component>
+</project>
